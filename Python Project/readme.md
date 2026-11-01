@@ -16,8 +16,11 @@ created a function to count the words in the feedback and printed output contain
 5.Summary
 
 printed all cleaned dictionary
+
 printed the average rating(total/number):Used sum() and len() to calculate the total and number of ratings,divided them to find the average rating,and printed the result.
+
 printed the longest comment:Used a for loop and len() to find and store the longest feedback comment, then printed it.
+
 prined unique words in feedback list:Used nested for loops and an if condition to identify and store unique words without duplicates, then printed the list.
 
 
