@@ -27,7 +27,7 @@ b)data analysis: used info(),shape(),column(),head(),tail() to find out basic de
 
 c)modified dataframe: created another column 'Discount',removed it(drop),changed values of existing entries
 
- Through these assignment I learned  how to use NumPy and Pandas library and its features for data exploration and analysis
+ Through this assignment I learned  how to use NumPy and Pandas library and its features for data exploration and analysis
  also some learnings gained from errors:
   1.Pandas Series Deletion: Once an entry is deleted, it cannot be deleted again unless it is added back to the Series
 
